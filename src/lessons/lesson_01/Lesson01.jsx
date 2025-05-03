@@ -1,6 +1,6 @@
 import reactLogo from "../../assets/react.svg";
 import viteLogo from "/vite.svg";
-import "./Lesson01.css";
+import "./lesson01.css";
 
 function Lesson01() {
   return (
