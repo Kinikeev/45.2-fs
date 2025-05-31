@@ -13,7 +13,7 @@ function Lesson01() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Hello Robert! It is React</h1>
+      <h1>Hello Robert! It is REACT + VITE</h1>
       {/* <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}

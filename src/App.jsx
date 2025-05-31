@@ -11,7 +11,7 @@ function App() {
 
   return (
     <>
-      {/* <Lesson01 /> */}
+      <Lesson01 />
       {/* <Lesson02 /> */}
       {/* <Lesson03 /> */}
       <HomeWork01 />
