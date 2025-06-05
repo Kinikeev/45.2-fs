@@ -40,8 +40,8 @@ function Lesson02() {
       <p>Это вычисление случилось в JSX: {20 + 22} !!!</p>
       {/* пример работы тернарного оператора с картинкой */}
 
-      <img width={"100px"} src={react.logo} alt="react.logo" />
-      {react.developer}
+      <img width={"50px"} src={react.logo} alt="react.logo" />
+      {/* {react.developer} */}
       <p>React developer: {react.developer}</p>
       <p>{showDeveloper(react)}</p>
       <h4>Пример тернарного оператора в React:</h4>
